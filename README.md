@@ -24,7 +24,7 @@ Paper Reading of ZhengLab.
 
 | 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
 | :------: | :-----: | :---: | :------: |
-| 郑自强 | [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993v5). In CVPR, 2017. | [PDF](materials/20180307/DenseNet-20180307-ZZQ.pdf) | [链接](https://mp.weixin.qq.com/s/DmSb6xp7U1s2XjKjaJJmTg) |
+| 郑自强 | [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993v5). In CVPR, 2017. | [PDF](materials/20180307/DenseNet-20180307-ZhengZiqiang.pdf) | [链接](https://mp.weixin.qq.com/s/DmSb6xp7U1s2XjKjaJJmTg) |
 | 赵燕 | [Image Inpainting using Multi-Scale Feature Image Translation](https://arxiv.org/abs/1711.08590v2). arXiv preprint arXiv: 1711.08590, 2017. | [PDF](materials/20180307/ImageInpainting-20180307-ZhaoYan.pdf) | [链接](https://mp.weixin.qq.com/s/CMQYbenY3gsgyzct2ZPGOA) |
 | 崔金娜 | [A Mixed-scale Dense Convolutional Neural Network for Image Analysis](http://www.pnas.org/content/early/2017/12/21/1715832114). National Academy of Sciences, 2017 | [PDF](materials/20180307/MSDNet-20180307-CuiJinna.pdf) | [链接](https://mp.weixin.qq.com/s/gwfLlOqrikTLmcgs9S7AWg) |
 
