@@ -35,7 +35,7 @@ p.s. Markdown 表格教程：http://xianbai.me/learn-md/article/extension/table.
 
 | 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
 | :------: | :-----: | :---: | :------: |
-| 孙梦洁 | [Image-to-Image Translation with Conditional Adversarial Networks]. In CVPR, 2017. | - | [链接] |
+| 孙梦洁 | [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004). In CVPR, 2017. | - | [链接](https://mp.weixin.qq.com/s/2HgcMXQ5KzbvaKL2gALTBw) |
 | 张皓旭 | [3D-R2N2: A Unified Approach for Single and Multi-view 3D Object Reconstruction]. In ECCV, 2016. | [PDF](materials/20180314/3D-R2N2-20180314-ZhangHaoxu.pdf) | [链接] |
 | 丁昊 | [Learning Deep Representation for Imbalanced Classification](https://www.computer.org/csdl/proceedings/cvpr/2016/8851/00/8851f375-abs.html). In CVPR, 2016. | [PDF](materials/20180314/ImbalancedClassification-20180314-DH.pdf) | [链接](https://mp.weixin.qq.com/s/k4zJNkcEJkgHjNBY9-QkEw) |
 
@@ -45,7 +45,7 @@ p.s. Markdown 表格教程：http://xianbai.me/learn-md/article/extension/table.
 | :------: | :-----: | :---: | :------: |
 | 姜善宸 | [HSfM: Hybrid Structure-from-Motion](https://ieeexplore.ieee.org/document/8099740/). In CVPR, 2017. | [PDF](materials/20180321/HSfM-20180321-JiangShanchen.pdf) | [链接](https://mp.weixin.qq.com/s/U9f7gyAeBbjEr3xJ2WNtBA) |
 | 邱晨晨 | [Attentive Recurrent Comparators](https://arxiv.org/abs/1703.00767). In CVPR, 2017. | [PDF](materials/20180321/FSL-20180321-QiuChenchen.pdf) | [链接](https://mp.weixin.qq.com/s/1jOgL2xJghab8gJqFKUp2w) |
-| 林国婷 | [Image De-raining Using a Conditional Generative Adversarial Network]. In CVPR, 2017. | [PDF] | [链接] |
+| 林国婷 | [Image De-raining Using a Conditional Generative Adversarial Network](https://arxiv.org/abs/1701.05957). In CVPR, 2017. | [PDF](materials/20180321/IDCGAN-20180321-LinGuoting.pdf) | [链接](https://mp.weixin.qq.com/s/guGgaPkruTKTOSxB7MWEuw) |
 
 ### 【18-04】报告时间：2018 年 03 月 28 日（星期三）晚上 19:00（北京时间）
 
@@ -60,29 +60,29 @@ p.s. Markdown 表格教程：http://xianbai.me/learn-md/article/extension/table.
 | 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
 | :------: | :-----: | :---: | :------: |
 | 刘静 | [CosFace: Large Margin Cosine Loss for Deep Face Recognition](https://arxiv.org/abs/1801.09414). In CVPR, 2018. | [PDF](materials/20180404/CosFace-20180404-LiuJing.pdf) | [链接](https://mp.weixin.qq.com/s/YZ8DeF6SBh3RnlJ7NBHqYw) |
-| 谭琳 | Blind Image Deblurring Using Dark Channel Prior. In CVPR, 2016. | [PDF](materials/20180404/BlindImageDeblurring-20180404-TanLin.pdf) | [链接] |
-| 孙梦洁 | StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation. In CVPR, 2018. | [PDF](materials/20180404/StarGAN-20180404-SunMengjie.pdf) | [链接] |
+| 谭琳 | [Blind Image Deblurring Using Dark Channel Prior](https://ieeexplore.ieee.org/document/7780549/). In CVPR, 2016. | [PDF](materials/20180404/BlindImageDeblurring-20180404-TanLin.pdf) | [链接](https://mp.weixin.qq.com/s/RI6HvaNxbYTZ9micqR6omg) |
+| 孙梦洁 | [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1711.09020). In CVPR, 2018. | [PDF](materials/20180404/StarGAN-20180404-SunMengjie.pdf) | [链接](https://mp.weixin.qq.com/s/w0ZYtqLUcCO8mmoyDLaTbw) |
 
 ### 【18-06】报告时间：2018 年 04 月 11 日（星期三）晚上 18:30（北京时间）
 
 | 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
 | :------: | :-----: | :---: | :------: |
-| 苑浩 | Supervised Descent Method and its Applications to Face Alignment. In CVPR, 2013. | [PDF](materials/20180411/FaceAlignment-20180411-YuanHao.pdf) | [链接] |
-| 汤宁 | Fully Convolutional Instance-aware Semantic Segmentation. In CVPR, 2017. | - | [链接] |
-| 郭泽民 | Fully Deep Blind Image Quality Predictor. IEEE Journal of Selected Topics in Signal Processing (JSTSP), 2017. | [PDF](materials/20180411/IQP-20180411-GuoZemin.pdf) | [链接] |
+| 苑浩 | [Supervised Descent Method and its Applications to Face Alignment](https://ieeexplore.ieee.org/document/6618919/). In CVPR, 2013. | [PDF](materials/20180411/FaceAlignment-20180411-YuanHao.pdf) | [链接](https://mp.weixin.qq.com/s/fwgZBYS8HnqwctvgVqjcOg) |
+| 汤宁 | [Fully Convolutional Instance-aware Semantic Segmentation](https://arxiv.org/abs/1611.07709). In CVPR, 2017. | - | [链接](https://mp.weixin.qq.com/s/0x93LCmaAJM1nWTuQYqxrQ) |
+| 郭泽民 | [Fully Deep Blind Image Quality Predictor](https://ieeexplore.ieee.org/abstract/document/7782419/). IEEE Journal of Selected Topics in Signal Processing (JSTSP), 2017. | [PDF](materials/20180411/IQP-20180411-GuoZemin.pdf) | [链接](https://mp.weixin.qq.com/s/3aC5qBrGORQ_HBQWHZXZPQ) |
 
 ### 【18-07】报告时间：2018 年 04 月 18 日（星期三）晚上 18:30（北京时间）
 
 | 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
 | :------: | :-----: | :---: | :------: |
 | 杜昂昂 | [Multimodal Unsupervised Image-to-Image Translation](https://arxiv.org/abs/1804.04732). arXiv preprint arXiv: 1804.04732 | [PDF](materials/20180418/MUNIT-20180418-DuAng.pdf) | [链接](https://mp.weixin.qq.com/s/EjLajYYbqonSvo0Y0wj-bw) |
-| 张少永 | [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/abs/1710.10196). In ICLR, 2018. | [PDF] | [链接] |
+| 张少永 | [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/abs/1710.10196). In ICLR, 2018. | [PDF] | [链接](https://mp.weixin.qq.com/s/Eu5gZ_i4EMqBJBWTExZHUQ) |
 
 ### 【18-08】报告时间：2018 年 04 月 25 日（星期三）晚上 18:30（北京时间）
 
 | 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
 | :------: | :-----: | :---: | :------: |
-| 张皓旭 | A point Set Generation Network for 3D Object Reconstruction from a Single Image. In CVPR 2017. | [PDF](materials/20180425/PointSetGenerationNet-3D-20180425-ZhangHaoxu.pdf) | [链接] |
+| 张皓旭 | A Point Set Generation Network for 3D Object Reconstruction from a Single Image. In CVPR 2017. | [PDF](materials/20180425/PointSetGenerationNet-3D-20180425-ZhangHaoxu.pdf) | [链接] |
 | 姜善宸 | [Efficient Global 2D-3D Matching for Camera Localization in a Large-Scale 3D Map](https://ieeexplore.ieee.org/document/8237522/). In ICCV 2017. | [PDF](materials/20180425/2D-3D-Matching-20180425-JiangShanchen.pdf) | [链接](https://mp.weixin.qq.com/s/mBOhdtqt7-mL6JWUZWjnFw) |
 
 ### 【18-09】报告时间：2018 年 05 月 02 日（星期三）晚上 18:30（北京时间）
@@ -90,7 +90,7 @@ p.s. Markdown 表格教程：http://xianbai.me/learn-md/article/extension/table.
 | 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
 | :------: | :-----: | :---: | :------: |
 | 赵燕 | [Globally and Locally Consistent Image Completion](http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/en/). In SIGGRAPH 2017. | [PDF](materials/20180502/ImageCompletion-20180502-ZhaoYan.pdf) | [链接](https://mp.weixin.qq.com/s/_yi9aTANViFrVAz1RbPsnA) |
-| 崔金娜 | [Dilated Residual Networks](https://arxiv.org/abs/1705.09914). In CVPR 2017. | [PDF](materials/20180502/DRN-20180502-CuiJinna.pdf) | [链接](https://mp.weixin.qq.com/s/zzkLbKS0rs_4Dhf88bitbw) |
+| 崔金娜 | [Dilated Residual Networks](https://arxiv.org/abs/1705.09914). In CVPR, 2017. | [PDF](materials/20180502/DRN-20180502-CuiJinna.pdf) | [链接](https://mp.weixin.qq.com/s/zzkLbKS0rs_4Dhf88bitbw) |
 
 ### 【18-10】报告时间：2018 年 05 月 09 日（星期三）晚上 18:30（北京时间）
 
