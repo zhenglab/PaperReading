@@ -99,7 +99,7 @@ p.s. Markdown 表格教程：http://xianbai.me/learn-md/article/extension/table.
 | 丁昊 | [KernelADASYN: Kernel Based Adaptive Synthetic Data Generation for Imbalanced Learning](https://ieeexplore.ieee.org/document/7256954/). In IEEE Congress on Evolutionary Computation (CEC), 2015. | [PDF](materials/20180509/KernelADASYN20180509-DingHao.pdf) | [链接](https://mp.weixin.qq.com/s/BTpqv3Ws552jmRz33wP-OA) |
 | 邱晨晨 | [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](https://arxiv.org/abs/1707.07998). In CVPR, 2018. | [PDF](materials/20180509/Attention-VQA-20180509-QiuChenchen.pdf) | [链接](https://mp.weixin.qq.com/s/k_yFbthS2q_Puj8pAPwOxQ) |
 
-### 【18-11】2018 年 05 月 16 日（星期三）晚上 18:30（北京时间）
+### 【18-11】报告时间：2018 年 05 月 16 日（星期三）晚上 18:30（北京时间）
 
 | 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
 | :------: | :-----: | :---: | :------: |
