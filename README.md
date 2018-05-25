@@ -1,14 +1,14 @@
 # PaperReading
 
-Paper Reading of ZhengLab.
+ZhengLab 每周一期的 Paper Reading 活动。
+
+欢迎扫描二维码关注 ZhengLab 微信公众号，查看往期 Paper Reading 解读文章~
+
+<div align="center">
+<img src="assets/zhenglab_qrcode.jpg" width = "200" height = "200" alt="图片名称" align=center />
+</div>
 
 ## 往期 Paper Reading 列表
-
-<!-- 欢迎扫描二维码关注 ZhengLab 微信公众号，里面有往期 Paper Reading 的解读文章~
-
-![zhenglab-wechat]()
-
--->
 
 <!--
 列表模板
@@ -17,7 +17,9 @@ Paper Reading of ZhengLab.
 
 | 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
 | :------: | :-----: | :---: | :------: |
-| 某某某 | An Awsome Paper You Want to Share, Where and When It Came from | [PDF](materials/2018xxxx/PDF_FILE_NAME) | [链接](对应公众号文章链接) |
+| 某某童鞋 | PAPER_INFO | [PDF](materials/2018xxxx/SLIDE_FILE) | [链接](公众号文章链接) |
+
+p.s. Markdown 表格教程：http://xianbai.me/learn-md/article/extension/table.html
 -->
 
 【18-01】报告时间：2018 年 03 月 07 日（星期三）晚上 19:00（北京时间）
