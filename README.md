@@ -31,3 +31,77 @@ p.s. Markdown 表格教程：http://xianbai.me/learn-md/article/extension/table.
 | 赵燕 | [Image Inpainting using Multi-Scale Feature Image Translation](https://arxiv.org/abs/1711.08590v2). arXiv preprint arXiv: 1711.08590, 2017. | [PDF](materials/20180307/ImageInpainting-20180307-ZhaoYan.pdf) | [链接](https://mp.weixin.qq.com/s/CMQYbenY3gsgyzct2ZPGOA) |
 | 崔金娜 | [A Mixed-scale Dense Convolutional Neural Network for Image Analysis](http://www.pnas.org/content/early/2017/12/21/1715832114). National Academy of Sciences, 2017 | [PDF](materials/20180307/MSDNet-20180307-CuiJinna.pdf) | [链接](https://mp.weixin.qq.com/s/gwfLlOqrikTLmcgs9S7AWg) |
 
+### 【18-02】报告时间：2018 年 03 月 14 日（星期三）晚上 19:00（北京时间）
+
+| 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
+| :------: | :-----: | :---: | :------: |
+| 孙梦洁 | [Image-to-Image Translation with Conditional Adversarial Networks]. In CVPR, 2017. | - | [链接] |
+| 张皓旭 | [3D-R2N2: A Unified Approach for Single and Multi-view 3D Object Reconstruction]. In ECCV, 2016. | [PDF](materials/20180314/3D-R2N2-20180314-ZhangHaoxu.pdf) | [链接] |
+| 丁昊 | [Learning Deep Representation for Imbalanced Classification](https://www.computer.org/csdl/proceedings/cvpr/2016/8851/00/8851f375-abs.html). In CVPR, 2016. | [PDF](materials/20180314/ImbalancedClassification-20180314-DH.pdf) | [链接](https://mp.weixin.qq.com/s/k4zJNkcEJkgHjNBY9-QkEw) |
+
+### 【18-03】报告时间：2018 年 03 月 21 日（星期三）晚上 19:00（北京时间）
+
+| 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
+| :------: | :-----: | :---: | :------: |
+| 姜善宸 | [HSfM: Hybrid Structure-from-Motion](https://ieeexplore.ieee.org/document/8099740/). In CVPR, 2017. | [PDF](materials/20180321/HSfM-20180321-JiangShanchen.pdf) | [链接](https://mp.weixin.qq.com/s/U9f7gyAeBbjEr3xJ2WNtBA) |
+| 邱晨晨 | [Attentive Recurrent Comparators](https://arxiv.org/abs/1703.00767). In CVPR, 2017. | [PDF](materials/20180321/FSL-20180321-QiuChenchen.pdf) | [链接](https://mp.weixin.qq.com/s/1jOgL2xJghab8gJqFKUp2w) |
+| 林国婷 | [Image De-raining Using a Conditional Generative Adversarial Network]. In CVPR, 2017. | [PDF] | [链接] |
+
+### 【18-04】报告时间：2018 年 03 月 28 日（星期三）晚上 19:00（北京时间）
+
+| 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
+| :------: | :-----: | :---: | :------: |
+| 李娜 | [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://arxiv.org/abs/1711.11585). In CVPR, 2018. | [PDF](materials/20180328/pix2pixHD-20180328-LiNa.pdf) | [链接](https://mp.weixin.qq.com/s/-LWPOKzSiiFPEw82pFJt_w) |
+| 卢靖宇 | [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/abs/1609.04802). In CVPR, 2016. | [PDF](materials/20180328/SR-GAN-20180328-LuJingyu.pdf) | [链接](https://mp.weixin.qq.com/s/60nUAwBJrkaxgbZk20ZCxQ) |
+| 郑自强 | Automatic Brain Tumor Detection and Segmentation Using U-Net Based Fully Convolutional Networks. In MIUA, 2017. | [PDF](materials/20180328/MedicalSegmentation-20180328-ZhengZiqiang.pdf) | [链接] |
+
+### 【18-05】报告时间：2018 年 04 月 04 日（星期三）晚上 19:00（北京时间）
+
+| 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
+| :------: | :-----: | :---: | :------: |
+| 刘静 | [CosFace: Large Margin Cosine Loss for Deep Face Recognition](https://arxiv.org/abs/1801.09414). In CVPR, 2018. | [PDF](materials/20180404/CosFace-20180404-LiuJing.pdf) | [链接](https://mp.weixin.qq.com/s/YZ8DeF6SBh3RnlJ7NBHqYw) |
+| 谭琳 | Blind Image Deblurring Using Dark Channel Prior. In CVPR, 2016. | [PDF](materials/20180404/BlindImageDeblurring-20180404-TanLin.pdf) | [链接] |
+| 孙梦洁 | StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation. In CVPR, 2018. | [PDF](materials/20180404/StarGAN-20180404-SunMengjie.pdf) | [链接] |
+
+### 【18-06】报告时间：2018 年 04 月 11 日（星期三）晚上 18:30（北京时间）
+
+| 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
+| :------: | :-----: | :---: | :------: |
+| 苑浩 | Supervised Descent Method and its Applications to Face Alignment. In CVPR, 2013. | [PDF](materials/20180411/FaceAlignment-20180411-YuanHao.pdf) | [链接] |
+| 汤宁 | Fully Convolutional Instance-aware Semantic Segmentation. In CVPR, 2017. | - | [链接] |
+| 郭泽民 | Fully Deep Blind Image Quality Predictor. IEEE Journal of Selected Topics in Signal Processing (JSTSP), 2017. | [PDF](materials/20180411/IQP-20180411-GuoZemin.pdf) | [链接] |
+
+### 【18-07】报告时间：2018 年 04 月 18 日（星期三）晚上 18:30（北京时间）
+
+| 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
+| :------: | :-----: | :---: | :------: |
+| 杜昂昂 | [Multimodal Unsupervised Image-to-Image Translation](https://arxiv.org/abs/1804.04732). arXiv preprint arXiv: 1804.04732 | [PDF](materials/20180418/MUNIT-20180418-DuAng.pdf) | [链接](https://mp.weixin.qq.com/s/EjLajYYbqonSvo0Y0wj-bw) |
+| 张少永 | [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/abs/1710.10196). In ICLR, 2018. | [PDF] | [链接] |
+
+### 【18-08】报告时间：2018 年 04 月 25 日（星期三）晚上 18:30（北京时间）
+
+| 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
+| :------: | :-----: | :---: | :------: |
+| 张皓旭 | A point Set Generation Network for 3D Object Reconstruction from a Single Image. In CVPR 2017. | [PDF](materials/20180425/PointSetGenerationNet-3D-20180425-ZhangHaoxu.pdf) | [链接] |
+| 姜善宸 | [Efficient Global 2D-3D Matching for Camera Localization in a Large-Scale 3D Map](https://ieeexplore.ieee.org/document/8237522/). In ICCV 2017. | [PDF](materials/20180425/2D-3D-Matching-20180425-JiangShanchen.pdf) | [链接](https://mp.weixin.qq.com/s/mBOhdtqt7-mL6JWUZWjnFw) |
+
+### 【18-09】报告时间：2018 年 05 月 02 日（星期三）晚上 18:30（北京时间）
+
+| 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
+| :------: | :-----: | :---: | :------: |
+| 赵燕 | [Globally and Locally Consistent Image Completion](http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/en/). In SIGGRAPH 2017. | [PDF](materials/20180502/ImageCompletion-20180502-ZhaoYan.pdf) | [链接](https://mp.weixin.qq.com/s/_yi9aTANViFrVAz1RbPsnA) |
+| 崔金娜 | [Dilated Residual Networks](https://arxiv.org/abs/1705.09914). In CVPR 2017. | [PDF](materials/20180502/DRN-20180502-CuiJinna.pdf) | [链接](https://mp.weixin.qq.com/s/zzkLbKS0rs_4Dhf88bitbw) |
+
+### 【18-10】报告时间：2018 年 05 月 09 日（星期三）晚上 18:30（北京时间）
+
+| 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
+| :------: | :-----: | :---: | :------: |
+| 丁昊 | [KernelADASYN: Kernel Based Adaptive Synthetic Data Generation for Imbalanced Learning](https://ieeexplore.ieee.org/document/7256954/). In IEEE Congress on Evolutionary Computation (CEC), 2015. | [PDF](materials/20180509/KernelADASYN20180509-DingHao.pdf) | [链接](https://mp.weixin.qq.com/s/BTpqv3Ws552jmRz33wP-OA) |
+| 邱晨晨 | [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering](https://arxiv.org/abs/1707.07998). In CVPR, 2018. | [PDF](materials/20180509/Attention-VQA-20180509-QiuChenchen.pdf) | [链接](https://mp.weixin.qq.com/s/k_yFbthS2q_Puj8pAPwOxQ) |
+
+### 【18-11】2018 年 05 月 16 日（星期三）晚上 18:30（北京时间）
+
+| 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
+| :------: | :-----: | :---: | :------: |
+| 李娜 | [Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/abs/1703.06868). In ICCV，2017. | [PDF](materials/20180516/AdaIN-20180516-Lina.pdf) | [链接](https://mp.weixin.qq.com/s/I8xfum8pOakUK-LKD-z61Q) |
+| 卢婧宇 | [Recovering Realistic Texture in Image Super-resolution by Deep Spatial Feature Transform](https://arxiv.org/abs/1804.02815). In CVPR, 2018. | [PDF](materials/20180516/SFT-GAN-20180516-LuJingyu.pdf) | [链接](https://mp.weixin.qq.com/s/zxNxKlzMFBSphuk1LnYeOg) |
