@@ -105,3 +105,10 @@ p.s. Markdown 表格教程：http://xianbai.me/learn-md/article/extension/table.
 | :------: | :-----: | :---: | :------: |
 | 李娜 | [Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/abs/1703.06868). In ICCV，2017. | [PDF](materials/20180516/AdaIN-20180516-Lina.pdf) | [链接](https://mp.weixin.qq.com/s/I8xfum8pOakUK-LKD-z61Q) |
 | 卢婧宇 | [Recovering Realistic Texture in Image Super-resolution by Deep Spatial Feature Transform](https://arxiv.org/abs/1804.02815). In CVPR, 2018. | [PDF](materials/20180516/SFT-GAN-20180516-LuJingyu.pdf) | [链接](https://mp.weixin.qq.com/s/zxNxKlzMFBSphuk1LnYeOg) |
+
+### 【18-12】报告时间：2018 年 05 月 23 日（星期三）晚上 18:30（北京时间）
+
+| 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
+| :------: | :-----: | :---: | :------: |
+| 刘静 | [Relation Networks for Object Detection](https://arxiv.org/abs/1711.11575). In CVPR，2018. | [PDF](materials/20180523/Relation-20180516-LiuJing.pdf) | [链接](https://mp.weixin.qq.com/s/PX17CmzOzZXMyZa--mnJLg) |
+| 谭琳 | [Adapting total generalized variation for blind image restoration](https://link.springer.com/article/10.1007/s11045-018-0586-0). In CVPR, 2018. | [PDF](materials/20180523/SFT-GAN-20180523-TanLin.pdf) | [链接](https://mp.weixin.qq.com/s/zE5q-d0vbazMKwtHlzwtOw) |
