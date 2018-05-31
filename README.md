@@ -36,7 +36,7 @@ p.s. Markdown 表格教程：http://xianbai.me/learn-md/article/extension/table.
 | 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
 | :------: | :-----: | :---: | :------: |
 | 孙梦洁 | [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004). In CVPR, 2017. | - | [链接](https://mp.weixin.qq.com/s/2HgcMXQ5KzbvaKL2gALTBw) |
-| 张皓旭 | [3D-R2N2: A Unified Approach for Single and Multi-view 3D Object Reconstruction]. In ECCV, 2016. | [PDF](materials/20180314/3D-R2N2-20180314-ZhangHaoxu.pdf) | [链接] |
+| 张皓旭 | [3D-R2N2: A Unified Approach for Single and Multi-view 3D Object Reconstruction](https://arxiv.org/abs/1604.00449). In ECCV, 2016. | [PDF](materials/20180314/3D-R2N2-20180314-ZhangHaoxu.pdf) | [链接](https://mp.weixin.qq.com/s/Dh16l1skpI8XXq0JxbjGNw) |
 | 丁昊 | [Learning Deep Representation for Imbalanced Classification](https://www.computer.org/csdl/proceedings/cvpr/2016/8851/00/8851f375-abs.html). In CVPR, 2016. | [PDF](materials/20180314/ImbalancedClassification-20180314-DH.pdf) | [链接](https://mp.weixin.qq.com/s/k4zJNkcEJkgHjNBY9-QkEw) |
 
 ### 【18-03】报告时间：2018 年 03 月 21 日（星期三）晚上 19:00（北京时间）
@@ -82,7 +82,7 @@ p.s. Markdown 表格教程：http://xianbai.me/learn-md/article/extension/table.
 
 | 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
 | :------: | :-----: | :---: | :------: |
-| 张皓旭 | A Point Set Generation Network for 3D Object Reconstruction from a Single Image. In CVPR 2017. | [PDF](materials/20180425/PointSetGenerationNet-3D-20180425-ZhangHaoxu.pdf) | [链接] |
+| 张皓旭 | [A Point Set Generation Network for 3D Object Reconstruction from a Single Image](https://arxiv.org/abs/1612.00603). In CVPR 2017. | [PDF](materials/20180425/PointSetGenerationNet-3D-20180425-ZhangHaoxu.pdf) | [链接](https://mp.weixin.qq.com/s/cWkZwPF6rIJgCah15o6Aeg) |
 | 姜善宸 | [Efficient Global 2D-3D Matching for Camera Localization in a Large-Scale 3D Map](https://ieeexplore.ieee.org/document/8237522/). In ICCV 2017. | [PDF](materials/20180425/2D-3D-Matching-20180425-JiangShanchen.pdf) | [链接](https://mp.weixin.qq.com/s/mBOhdtqt7-mL6JWUZWjnFw) |
 
 ### 【18-09】报告时间：2018 年 05 月 02 日（星期三）晚上 18:30（北京时间）
