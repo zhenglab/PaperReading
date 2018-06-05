@@ -53,7 +53,7 @@ p.s. Markdown 表格教程：http://xianbai.me/learn-md/article/extension/table.
 | :------: | :-----: | :---: | :------: |
 | 李娜 | [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://arxiv.org/abs/1711.11585). In CVPR, 2018. | [PDF](materials/20180328/pix2pixHD-20180328-LiNa.pdf) | [链接](https://mp.weixin.qq.com/s/-LWPOKzSiiFPEw82pFJt_w) |
 | 卢靖宇 | [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/abs/1609.04802). In CVPR, 2016. | [PDF](materials/20180328/SR-GAN-20180328-LuJingyu.pdf) | [链接](https://mp.weixin.qq.com/s/60nUAwBJrkaxgbZk20ZCxQ) |
-| 郑自强 | Automatic Brain Tumor Detection and Segmentation Using U-Net Based Fully Convolutional Networks. In MIUA, 2017. | [PDF](materials/20180328/MedicalSegmentation-20180328-ZhengZiqiang.pdf) | [链接] |
+| 郑自强 | [Automatic Brain Tumor Detection and Segmentation Using U-Net Based Fully Convolutional Networks](https://arxiv.org/abs/1705.03820). In MIUA, 2017. | [PDF](materials/20180328/MedicalSegmentation-20180328-ZhengZiqiang.pdf) | - |
 
 ### 【18-05】报告时间：2018 年 04 月 04 日（星期三）晚上 19:00（北京时间）
 
@@ -117,5 +117,5 @@ p.s. Markdown 表格教程：http://xianbai.me/learn-md/article/extension/table.
 
 | 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
 | :------: | :-----: | :---: | :------: |
-| 郑自强 | [AlignedReID: Surpassing Human-Level Performance in Person Re-Identification](). In CVPR, 2018. | [PDF]() | [链接]() |
+| 郑自强 | [AlignedReID: Surpassing Human-Level Performance in Person Re-Identification](https://arxiv.org/abs/1711.08184). In CVPR, 2018. | [PDF](materials/20180530/AlignedReID-20180530-ZhengZiqiang.pdf) | [链接](https://mp.weixin.qq.com/s/Bi7IHx2Qg9bexeApbfFtFw) |
 | 杜昂昂 | [A Variational U-Net for Conditional Appearance and Shape Generation](https://compvis.github.io/vunet/). In CVPR，2018. | [PDF](materials/20180530/Variational-U-Net-20180530-DuAng.pdf) | [链接](https://mp.weixin.qq.com/s/Fw7DSJIcUQRk-0qb0XR0FQ) |
