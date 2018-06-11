@@ -119,3 +119,10 @@ p.s. Markdown 表格教程：http://xianbai.me/learn-md/article/extension/table.
 | :------: | :-----: | :---: | :------: |
 | 郑自强 | [AlignedReID: Surpassing Human-Level Performance in Person Re-Identification](https://arxiv.org/abs/1711.08184). In CVPR, 2018. | [PDF](materials/20180530/AlignedReID-20180530-ZhengZiqiang.pdf) | [链接](https://mp.weixin.qq.com/s/Bi7IHx2Qg9bexeApbfFtFw) |
 | 杜昂昂 | [A Variational U-Net for Conditional Appearance and Shape Generation](https://compvis.github.io/vunet/). In CVPR，2018. | [PDF](materials/20180530/Variational-U-Net-20180530-DuAng.pdf) | [链接](https://mp.weixin.qq.com/s/Fw7DSJIcUQRk-0qb0XR0FQ) |
+
+### 【18-14】报告时间：2018 年 06 月 06 日（星期三）晚上 18:30（北京时间）
+
+| 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
+| :------: | :-----: | :---: | :------: |
+| 孙梦洁 | [Facelet-Bank for Fast Portrait Manipulation](https://arxiv.org/abs/1803.05576). In CVPR, 2018. | [PDF](materials/20180606/Facelet-Bank-20180606-SunMengjie.pdf) | [链接](https://mp.weixin.qq.com/s/bnBiZwja2ogcSMZhPon_jQ) |
+| 苑浩 | [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://ieeexplore.ieee.org/document/7485869/). In CVPR, 2016. | [PDF](materials/20180606/Faster-RCNN-20180606-YuanHao.pdf) | [链接](https://ieeexplore.ieee.org/document/7485869/) |
