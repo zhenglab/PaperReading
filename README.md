@@ -126,3 +126,9 @@ p.s. Markdown 表格教程：http://xianbai.me/learn-md/article/extension/table.
 | :------: | :-----: | :---: | :------: |
 | 孙梦洁 | [Facelet-Bank for Fast Portrait Manipulation](https://arxiv.org/abs/1803.05576). In CVPR, 2018. | [PDF](materials/20180606/Facelet-Bank-20180606-SunMengjie.pdf) | [链接](https://mp.weixin.qq.com/s/bnBiZwja2ogcSMZhPon_jQ) |
 | 苑浩 | [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://ieeexplore.ieee.org/document/7485869/). In CVPR, 2016. | [PDF](materials/20180606/Faster-RCNN-20180606-YuanHao.pdf) | [链接](https://ieeexplore.ieee.org/document/7485869/) |
+### 【18-15】报告时间：2018 年 06 月 13 日（星期三）晚上 18:30（北京时间）
+
+| 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
+| :------: | :-----: | :---: | :------: |
+| 郭泽民 | [The Unreasonable Effectiveness of Deep Features as a Perceptual Metric](https://arxiv.org/abs/1801.03924). In arXiv:1801.03924, 2018. | [PDF](materials/20180613/The_Unreasonable_Effectiveness_of_Deep_Features_as_a_Perceptual_Metric-20180613-GuoZemin.pdf) | [链接](https://mp.weixin.qq.com/s/g5je1zIt-SuOhe-uawG_5A) |
+| 崔金娜 | [Conditional Image Synthesis with Auxiliary Classifier GANs](https://arxiv.org/abs/1610.09585). In CVPR, 2017. | [PDF](materials/20180606/ACGAN-20180613-CuiJinna.pdf) | [链接](https://mp.weixin.qq.com/s/tyxKKYQpXRgejb_n5q9IVw) |
