@@ -135,5 +135,5 @@ p.s. Markdown 表格教程：http://xianbai.me/learn-md/article/extension/table.
 ### 【18-16】报告时间：2018 年 06 月 20 日（星期三）晚上 18:30（北京时间）
 | 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
 | :------: | :-----: | :---: | :------: |
-| 赵燕 | [Generative Image Inpainting with Contextual Attention](https://arxiv.org/abs/1801.07892). In CVPR, 2018. | [PDF](materials/20180613/The_Unreasonable_Effectiveness_of_Deep_Features_as_a_Perceptual_Metric-20180613-GuoZemin.pdf) | [链接](https://mp.weixin.qq.com/s/nZ7e8XfbwJWYWTxX-3m6Dg) |
-| 丁昊 | [Box Drawings for Learning with Imbalanced Data](https://arxiv.org/abs/1403.3378). In ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2014. | [PDF](materials/20180606/ACGAN-20180613-CuiJinna.pdf) | [链接](https://mp.weixin.qq.com/s/WUb_M4pPMqnt0WJFZh0J2w) |
+| 赵燕 | [Generative Image Inpainting with Contextual Attention](https://arxiv.org/abs/1801.07892). In CVPR, 2018. | [PDF](materials/20180620/ZhaoYan-0620-ImageInpainting.pdf) | [链接](https://mp.weixin.qq.com/s/nZ7e8XfbwJWYWTxX-3m6Dg) |
+| 丁昊 | [Box Drawings for Learning with Imbalanced Data](https://arxiv.org/abs/1403.3378). In ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2014. | [PDF](materials/20180620/DingHao-0620-box-drawings.pdf) | [链接](https://mp.weixin.qq.com/s/WUb_M4pPMqnt0WJFZh0J2w) |
