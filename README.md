@@ -137,3 +137,8 @@ p.s. Markdown 表格教程：http://xianbai.me/learn-md/article/extension/table.
 | :------: | :-----: | :---: | :------: |
 | 赵燕 | [Generative Image Inpainting with Contextual Attention](https://arxiv.org/abs/1801.07892). In CVPR, 2018. | [PDF](materials/20180620/ZhaoYan-0620-ImageInpainting.pdf) | [链接](https://mp.weixin.qq.com/s/nZ7e8XfbwJWYWTxX-3m6Dg) |
 | 丁昊 | [Box Drawings for Learning with Imbalanced Data](https://arxiv.org/abs/1403.3378). In ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2014. | [PDF](materials/20180620/DingHao-0620-box-drawings.pdf) | [链接](https://mp.weixin.qq.com/s/WUb_M4pPMqnt0WJFZh0J2w) |
+### 【18-19】报告时间：2018 年 07 月 25 日（星期三）晚上 18:30（北京时间）
+| 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
+| :------: | :-----: | :---: | :------: |
+| 卢婧宇 | [Deep Underwater Image Enhancement](https://arxiv.org/pdf/1807.03528.pdf). arXiv preprint arXiv: 1807.03528v1, 2018. | [PDF](materials/20180725/20180725/LuJingyu-0725-UnderwaterImageEnhancement.pdf) | [链接](https://mp.weixin.qq.com/s/HOG22W5CoP9CeTo38eo28g) |
+| 孙梦洁 | [The Contextual Loss for Image Transformation with Non-Aligned Data](https://arxiv.org/pdf/1803.02077.pdf). In ECCV，2018. | [PDF](materials/20180725/SunMengjie-0725-ContextualLoss.pdf) | [链接]() |
