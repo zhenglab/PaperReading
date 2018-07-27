@@ -141,4 +141,4 @@ p.s. Markdown 表格教程：http://xianbai.me/learn-md/article/extension/table.
 | 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
 | :------: | :-----: | :---: | :------: |
 | 卢婧宇 | [Deep Underwater Image Enhancement](https://arxiv.org/pdf/1807.03528.pdf). arXiv preprint arXiv: 1807.03528v1, 2018. | [PDF](materials/20180725/LuJingyu-0725-UnderwaterImageEnhancement.pdf) | [链接](https://mp.weixin.qq.com/s/HOG22W5CoP9CeTo38eo28g) |
-| 孙梦洁 | [The Contextual Loss for Image Transformation with Non-Aligned Data](https://arxiv.org/pdf/1803.02077.pdf). In ECCV，2018. | [PDF](materials/20180725/SunMengjie-0725-ContextualLoss.pdf) | [链接]() |
+| 孙梦洁 | [The Contextual Loss for Image Transformation with Non-Aligned Data](https://arxiv.org/pdf/1803.02077.pdf). In ECCV，2018. | [PDF](materials/20180725/SunMengjie-0725-ContextualLoss.pdf) | [链接](https://mp.weixin.qq.com/s/67VSzNpo0hDDFk2f2Efgtw) |
