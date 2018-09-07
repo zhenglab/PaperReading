@@ -126,19 +126,79 @@ p.s. Markdown 表格教程：http://xianbai.me/learn-md/article/extension/table.
 | :------: | :-----: | :---: | :------: |
 | 孙梦洁 | [Facelet-Bank for Fast Portrait Manipulation](https://arxiv.org/abs/1803.05576). In CVPR, 2018. | [PDF](materials/20180606/Facelet-Bank-20180606-SunMengjie.pdf) | [链接](https://mp.weixin.qq.com/s/bnBiZwja2ogcSMZhPon_jQ) |
 | 苑浩 | [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://ieeexplore.ieee.org/document/7485869/). In CVPR, 2016. | [PDF](materials/20180606/Faster-RCNN-20180606-YuanHao.pdf) | [链接](https://ieeexplore.ieee.org/document/7485869/) |
+
 ### 【18-15】报告时间：2018 年 06 月 13 日（星期三）晚上 18:30（北京时间）
 
 | 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
 | :------: | :-----: | :---: | :------: |
 | 郭泽民 | [The Unreasonable Effectiveness of Deep Features as a Perceptual Metric](https://arxiv.org/abs/1801.03924). arXiv preprint arXiv: 1801.03924, 2018. | [PDF](materials/20180613/The_Unreasonable_Effectiveness_of_Deep_Features_as_a_Perceptual_Metric-20180613-GuoZemin.pdf) | [链接](https://mp.weixin.qq.com/s/g5je1zIt-SuOhe-uawG_5A) |
 | 崔金娜 | [Conditional Image Synthesis with Auxiliary Classifier GANs](https://arxiv.org/abs/1610.09585). In CVPR, 2017. | [PDF](materials/20180606/ACGAN-20180613-CuiJinna.pdf) | [链接](https://mp.weixin.qq.com/s/tyxKKYQpXRgejb_n5q9IVw) |
+
 ### 【18-16】报告时间：2018 年 06 月 20 日（星期三）晚上 18:30（北京时间）
+
 | 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
 | :------: | :-----: | :---: | :------: |
 | 赵燕 | [Generative Image Inpainting with Contextual Attention](https://arxiv.org/abs/1801.07892). In CVPR, 2018. | [PDF](materials/20180620/ZhaoYan-0620-ImageInpainting.pdf) | [链接](https://mp.weixin.qq.com/s/nZ7e8XfbwJWYWTxX-3m6Dg) |
 | 丁昊 | [Box Drawings for Learning with Imbalanced Data](https://arxiv.org/abs/1403.3378). In ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2014. | [PDF](materials/20180620/DingHao-0620-box-drawings.pdf) | [链接](https://mp.weixin.qq.com/s/WUb_M4pPMqnt0WJFZh0J2w) |
+
+### 【18-17】报告时间：2018 年 07 月 11 日（星期三）晚上 18:30（北京时间）
+
+| 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
+| :------: | :-----: | :---: | :------: |
+| 姜善宸 | [From Single Image Query to Detailed 3D Reconstruction]. In CVPR, 2015. | [PDF] | [链接] |
+| 邱晨晨 | [AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks]. In CVPR, 2018. | [PDF] | [链接] |
+
+### 【18-18】报告时间：2018 年 07 月 18 日（星期三）晚上 18:30（北京时间）
+
+| 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
+| :------: | :-----: | :---: | :------: |
+| 张皓旭 | [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation]. In CVPR, 2017. | [PDF] | [链接] |
+| 谭琳 | [Learning to Deblur Images with Exemplars]. TPAMI, 2018. | [PDF] | [链接] |
+
 ### 【18-19】报告时间：2018 年 07 月 25 日（星期三）晚上 18:30（北京时间）
+
 | 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
 | :------: | :-----: | :---: | :------: |
 | 卢婧宇 | [Deep Underwater Image Enhancement](https://arxiv.org/pdf/1807.03528.pdf). arXiv preprint arXiv: 1807.03528v1, 2018. | [PDF](materials/20180725/LuJingyu-0725-UnderwaterImageEnhancement.pdf) | [链接](https://mp.weixin.qq.com/s/HOG22W5CoP9CeTo38eo28g) |
 | 孙梦洁 | [The Contextual Loss for Image Transformation with Non-Aligned Data](https://arxiv.org/pdf/1803.02077.pdf). In ECCV，2018. | [PDF](materials/20180725/SunMengjie-0725-ContextualLoss.pdf) | [链接](https://mp.weixin.qq.com/s/67VSzNpo0hDDFk2f2Efgtw) |
+
+### 【18-20】报告时间：2018 年 08 月 01 日（星期三）晚上 18:30（北京时间）
+
+| 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
+| :------: | :-----: | :---: | :------: |
+| 刘静 | [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices]. In CVPR, 2018. | [PDF] | [链接] |
+| 郑自强 | [Object Region Mining with Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach]. In CVPR, 2017. | [PDF] | [链接] |
+
+### 【18-21】报告时间：2018 年 08 月 08 日（星期三）晚上 18:30（北京时间）
+
+| 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
+| :------: | :-----: | :---: | :------: |
+| 郭泽民 | [Predicting Aesthetic Score Distribution through Cumulative Jensen-Shannon Divergence]. In AAAI, 2018. | [PDF] | [链接] |
+
+### 【18-22】报告时间：2018 年 08 月 15 日（星期三）晚上 18:30（北京时间）
+
+| 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
+| :------: | :-----: | :---: | :------: |
+| 杜昂昂 | [Diverse Image-to-Image Translation via Disentangled Representations](https://arxiv.org/abs/1808.00948). In ECCV, 2018. | [PDF](materials/20180815/DRIT-20180815-DuAng.pdf) | [链接] |
+| 丁昊 | [ACOSampling: An ant colony optimization-based undersampling method for classifying imbalanced DNA microarray data]. Neurocomputing, 2013. | [PDF] | [链接] |
+
+### 【18-23】报告时间：2018 年 08 月 22 日（星期三）晚上 18:30（北京时间）
+
+| 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
+| :------: | :-----: | :---: | :------: |
+| 牛文杰 | [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs]. In CVPR, 2018. | [PDF] | [链接] |
+| 孙梦洁 | [Modular Generative Adversarial Networks]. In ECCV, 2018. | [PDF] | [链接] |
+
+### 【18-24】报告时间：2018 年 08 月 29 日（星期三）晚上 18:30（北京时间）
+
+| 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
+| :------: | :-----: | :---: | :------: |
+| 曹亮杰 | [Temporal Segment Network: Towards Good Gractices for Deep Action Recognition]. In ECCV, 2016. | [PDF] | [链接] |
+| 邱晨晨 | [Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning]. In CVPR, 2017. | [PDF] | [链接] |
+
+### 【18-25】报告时间：2018 年 09 月 05 日（星期三）晚上 18:30（北京时间）
+
+| 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
+| :------: | :-----: | :---: | :------: |
+| 关城 | [Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset]. In CVPR, 2017. | [PDF] | [链接] |
+| 赵燕 | [Image Inpainting for Irregular Holes Using Partial Convolutions]. In ICLR, 2018. | [PDF] | [链接] |
