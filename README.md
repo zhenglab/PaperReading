@@ -202,3 +202,10 @@ p.s. Markdown 表格教程：http://xianbai.me/learn-md/article/extension/table.
 | :------: | :-----: | :---: | :------: |
 | 关城 | [Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset]. In CVPR, 2017. | [PDF] | [链接] |
 | 赵燕 | [Image Inpainting for Irregular Holes Using Partial Convolutions]. In ICLR, 2018. | [PDF] | [链接] |
+
+### 【18-26】报告时间：2018 年 09 月 12 日（星期三）晚上 18:30（北京时间）
+
+| 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
+| :------: | :-----: | :---: | :------: |
+| 姜玉凤 | [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593). In CVPR, 2017. |[PDF](materials/20180912/JiangYuFeng_0912_CycleGAN.pdf) | [链接](https://mp.weixin.qq.com/s/-3ari3vrGyuE83A1WIZeUw) |
+| 张皓旭 | [PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space](https://arxiv.org/abs/1706.02413). In NIPS, 2017. | [PDF](materials/20180912/ZhangHaoXu_0912_PointNet++.pdf) | [链接] |
