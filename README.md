@@ -186,7 +186,7 @@ p.s. Markdown 表格教程：http://xianbai.me/learn-md/article/extension/table.
 
 | 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
 | :------: | :-----: | :---: | :------: |
-| 牛文杰 | [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs]. In CVPR, 2018. | [PDF] | [链接] |
+| 牛文杰 | [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://arxiv.org/abs/1711.11585v1). In CVPR, 2018. | [PDF] (materials/20180822/pix2pixHD.pdf)| [链接] (https://mp.weixin.qq.com/s/3n_Es816QZbgjEgt0T58GQ)|
 | 孙梦洁 | [Modular Generative Adversarial Networks]. In ECCV, 2018. | [PDF] | [链接] |
 
 ### 【18-24】报告时间：2018 年 08 月 29 日（星期三）晚上 18:30（北京时间）
