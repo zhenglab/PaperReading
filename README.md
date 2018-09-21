@@ -209,3 +209,11 @@ p.s. Markdown 表格教程：http://xianbai.me/learn-md/article/extension/table.
 | :------: | :-----: | :---: | :------: |
 | 姜玉凤 | [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593). In CVPR, 2017. |[PDF](materials/20180912/JiangYuFeng_0912_CycleGAN.pdf) | [链接](https://mp.weixin.qq.com/s/-3ari3vrGyuE83A1WIZeUw) |
 | 张皓旭 | [PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space](https://arxiv.org/abs/1706.02413). In NIPS, 2017. | [PDF](materials/20180912/ZhangHaoXu_0912_PointNet++.pdf) | [链接] |
+
+### 【18-27】报告时间：2018 年 09 月 21 日（星期三）晚上 18:30（北京时间）
+
+| 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
+| :------: | :-----: | :---: | :------: |
+| 卢婧宇 | [Enhancing Underwater Imagery using Generative Adversarial Networks](https://arxiv.org/pdf/1801.04011). In ICRA, 2018. |[PDF](materials/20180921/LuJingYu_0921_UGAN.pdf) | [链接] |
+| 韩茹月 | [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/pdf/1603.08155). In ECCV, 2016. | [PDF](materials/20180921/HanRuYue_0921_PerceptualLosses.pdf) | [链接] |
+
