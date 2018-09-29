@@ -217,3 +217,9 @@ p.s. Markdown 表格教程：http://xianbai.me/learn-md/article/extension/table.
 | 卢婧宇 | [Enhancing Underwater Imagery using Generative Adversarial Networks](https://arxiv.org/pdf/1801.04011). In ICRA, 2018. |[PDF](materials/20180921/LuJingYu_0921_UGAN.pdf) | [链接] |
 | 韩茹月 | [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/pdf/1603.08155). In ECCV, 2016. | [PDF](materials/20180921/HanRuYue_0921_PerceptualLosses.pdf) | [链接] |
 
+### 【18-28】报告时间：2018 年 09 月 29 日（星期六）晚上 18:30（北京时间）
+
+| 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
+| :------: | :-----: | :---: | :------: |
+| 刘静 | [Learning to Navigate for Fine-grained Classification](https://arxiv.org/pdf/1801.04011). In ECCV, 2018. |[PDF](materials/20180921/LuJingYu_0921_UGAN.pdf) | [链接] |
+| 刘鸿智 | [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_StackGAN_Text_to_ICCV_2017_paper.pdf). In ICCV, 2017. | [PDF](materials/20180929/LiuHongZhi_0929_StackGAN.pdf) | [链接] |
