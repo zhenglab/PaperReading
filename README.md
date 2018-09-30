@@ -221,5 +221,5 @@ p.s. Markdown 表格教程：http://xianbai.me/learn-md/article/extension/table.
 
 | 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
 | :------: | :-----: | :---: | :------: |
-| 刘静 | [Learning to Navigate for Fine-grained Classification](https://arxiv.org/pdf/1801.04011). In ECCV, 2018. |[PDF](materials/20180921/LuJingYu_0921_UGAN.pdf) | [链接] |
-| 刘鸿智 | [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_StackGAN_Text_to_ICCV_2017_paper.pdf). In ICCV, 2017. | [PDF](materials/20180929/LiuHongZhi_0929_StackGAN.pdf) | [链接] |
+| 刘静 | [Learning to Navigate for Fine-grained Classification](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ze_Yang_Learning_to_Navigate_ECCV_2018_paper.pdf). In ECCV, 2018. |[PDF](materials/20180929/Liujing_0929_NTS-Net.pdf) | [链接] |
+| 刘鸿智 | [StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_StackGAN_Text_to_ICCV_2017_paper.pdf). In ICCV, 2017. | [PDF](materials/20180929/LiuHongZhi_0929_StackGAN.pdf) | [链接](https://mp.weixin.qq.com/s?__biz=MzUxNjcxNzMxMw==&mid=2247484444&idx=1&sn=e5fd94c99ed3ced29842efe2a88a56e2&chksm=f9a26a72ced5e364851be5e982dc2f9012e1a98f2da90872be1575cfe46a12a3b37b84e4a8a8&mpshare=1&scene=1&srcid=0930ETKNgm1ifGuOMSV5zv0N&pass_ticket=ioqYBexoe%2BoRQ5%2BnSgZTV92NKlwwyaMAcZeozoBB3hJblgVlBGe5qP6gAjrZ46%2FO#rd)|
