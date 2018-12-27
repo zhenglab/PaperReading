@@ -236,4 +236,4 @@ p.s. Markdown 表格教程：http://xianbai.me/learn-md/article/extension/table.
 | 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
 | :------: | :-----: | :---: | :------: |
 | 刘鸿智 | [Inferring Semantic Layout for Hierarchical Text-to-Image Synthesis](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hong_Inferring_Semantic_Layout_CVPR_2018_paper.pdf). In CVPR, 2018. |[PDF](materials/20181228/LiuHongZhi_1228_Text2image.pdf) | [链接] |
-| 郭泽民 | [Attention-based Multi-Patch Aggregation for Image Aesthetic Assessment](https://dl.acm.org/citation.cfm?id=3240554). In ACM MM, 2018. |[PDF](materials/20181228/GuoZeMin_1228_Image Aesthetic Assessment.pdf) | [链接] |
+| 郭泽民 | [Attention-based Multi-Patch Aggregation for Image Aesthetic Assessment](https://dl.acm.org/citation.cfm?id=3240554). In ACM MM, 2018. |[PDF](materials/20181228/LiuHongZhi_1228_Text2image.pdf) | [链接] |
