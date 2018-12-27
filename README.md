@@ -231,7 +231,7 @@ p.s. Markdown 表格教程：http://xianbai.me/learn-md/article/extension/table.
 | 刘静 | [WaterGAN: Unsupervised Generative Network to Enable Real-time Color Correction of Monocular Underwater Images](https://arxiv.org/pdf/1702.07392). In IEEE Robotics and Automation Letters (RA-L), 2017. |[PDF](materials/20181221/LiuJing_1221_WaterGAN.pdf) | [链接] |
 | 韩茹月 | [Unsupervised Image Super-Resolution using Cycle-in-Cycle Generative Adversarial Networks](https://arxiv.org/pdf/1809.00437). In CVPR, 2018. | [PDF](materials/20181221/HanRuYue_1221_CinCGAN.pdf) | [链接] |
 
-### 【18-37】报告时间：2018 年 12 月 21 日（星期五）晚上 18:30（北京时间）
+### 【18-38】报告时间：2018 年 12 月 28 日（星期五）晚上 18:30（北京时间）
 
 | 报告负责人 | 论文简介 | 幻灯片 | 公众号文章 |
 | :------: | :-----: | :---: | :------: |
